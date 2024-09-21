@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.sylvain.pro"><img src="https://sylvain.pro/images/portfolio.png" alt="Logo" width="25%" height="auto"></a>
+  <a href="https://git.sylvain.pro"><img src="https://sylvain.pro/images/logo.png" alt="Logo" width="25%" height="auto"></a>
 
   # Sous-domaine - Portfolio - Sylvain
   [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
